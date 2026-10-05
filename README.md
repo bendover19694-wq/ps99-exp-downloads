@@ -1,9 +1,10 @@
-# Downloads — EXP Bot · Ultimate Trader · PS99 Booth Sniper
+# DRMV's Tools — downloads
 
-Latest builds are on the [Releases page](../../releases/latest).
+Grab the latest build from [Releases](../../releases/latest):
 
-- **EXP Bot** — automated PS99 farming, giveaways, multi-account, dashboard
-- **Ultimate Trader** — scheduled Discord posting, message sets, dashboard
-- **PS99 Booth Sniper** — continuous booth scanning, auto-buy, watchlists
+- **Ultimate Trader** (`UltimateTrader.zip`) — keeps your Discord trade ads posted on a schedule.
+- **PS99 Booth Sniper** (`PS99-Booth-Sniper.zip`) — buys underpriced booth listings as they appear.
 
-Enter your licence key on first launch. Need one? Open a ticket in the Discord.
+Unzip, run, paste your licence key. Windows may warn on first run because the exe isn't code-signed — click *More info → Run anyway*.
+
+No key yet? Run `/trial` or open a ticket in DRMV's Gem Tracker.
